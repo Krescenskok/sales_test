@@ -14,6 +14,7 @@ Build a Power BI Dashboard while demonstrating how to build data pipelines.
 - Build a Power BI Dashboard utilizing gold layer.
 
 ## 📦 Project Tech Stack
+- uv
 - Python
     - PySpark, Polars, Pandas
 - Database
@@ -26,6 +27,6 @@ Build a Power BI Dashboard while demonstrating how to build data pipelines.
 
 1. **Clone the repo**
    ```bash
-   git clone 
-   cd sales-test
+   git clone https://github.com/timmyjl12/sales_test.git
+   cd sales_test
    ```
