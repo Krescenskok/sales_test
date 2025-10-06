@@ -38,6 +38,12 @@ Build a Power BI Dashboard while demonstrating how to build data pipelines.
 - If more data cleanup was necessary for this project (for example, if Data Scientist needed to use the data), I would have created boxplots to identify outliers or histograms to understand the distribution of the columns.
 
 2. Example of loading and preprocessing data in data pipelines/Build bronze, silver, gold medallion layers:
+- Tech stack used:
+     1. Databricks and Unity Catalog for data storage
+     2. Python
+     3. SQL
+     4. Pandas, Pyspark, datetime, os, re, shutil
+     5. Power BI/DAX
 - For this step, I have created 3 different notebooks:
      1. Extract Source to Bronze Unity Catalog: This takes the JSON files from the GitHub repository and copies them into a volume in unity catalog as the bronze layer (raw data)
      2. Extract Bronze to Silver Unity Catalog: This is where the cleanup occurs, and adding metadata columns. In this notebook, I cleaned up the data by removing null and duplicate records. In addition, I cleaned up the column names and added metadata columns containing the file name and the upload date.
