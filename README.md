@@ -64,3 +64,5 @@ Build a Power BI Dashboard while demonstrating how to build data pipelines.
 ## Connecting to Databricks from Power BI
 - Server Hostname: dbc-87f63894-5b6e.cloud.databricks.com
 - HTTP Path: /sql/1.0/warehouses/c12f9212f512792a
+
+Link to Power BI Dashboard: https://app.powerbi.com/groups/me/reports/32ebe1c5-98dc-4f7c-90d8-5c20d54fb23f/b3ee32b23c410a800607?experience=power-bi
