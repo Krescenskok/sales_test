@@ -55,8 +55,8 @@ Build a Power BI Dashboard while demonstrating how to build data pipelines.
 - These 2 tables were then used to solve the stakeholder problem statements, where 2 visualizations were created:
     1. The first visualization is a bar graph, displaying the number of sales per customer. In addition, I included a filter with the customer ID and name so that the stakeholders can zoom in on certain customers if needed. Another feature in this visualization is the tooltip, which displays the customer name, customer ID, and the number of sales for that customer.
  
-       <img width="1193" height="684" alt="Screenshot 2025-10-06 at 11 44 23 AM" src="https://github.com/user-attachments/assets/2ecc30e7-0d32-40ff-8729-c13df36c50ad" />
-       
+       <img width="1182" height="684" alt="Screenshot 2025-10-06 at 4 09 15 PM" src="https://github.com/user-attachments/assets/e7fd3708-623d-4da2-8ce2-6a30829d03dc" />
+
     2. The second visualization is a heat map, displaying the number of sales per country. In addition, I included a filter with the region so that the stakeholders can zoom into each region and help them make informed business decisions on where they should focus more on sales. Another feature in this visualization is the tooltop, which displays the Country abbreviation, Country name, total sales, and the region.
        
        <img width="1180" height="671" alt="Screenshot 2025-10-06 at 11 45 33 AM" src="https://github.com/user-attachments/assets/8c365872-5cf7-4f82-be50-d740e7671dcf" />
