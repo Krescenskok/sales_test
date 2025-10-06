@@ -27,6 +27,6 @@ Build a Power BI Dashboard while demonstrating how to build data pipelines.
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/timmyjl12/sales_test.git
+   git clone https://github.com/Krescenskok/sales_test.git
    cd sales_test
    ```
