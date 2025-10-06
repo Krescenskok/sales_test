@@ -61,3 +61,6 @@ Build a Power BI Dashboard while demonstrating how to build data pipelines.
        
        <img width="1180" height="671" alt="Screenshot 2025-10-06 at 11 45 33 AM" src="https://github.com/user-attachments/assets/8c365872-5cf7-4f82-be50-d740e7671dcf" />
 
+## Connecting to Databricks from Power BI
+- Server Hostname: dbc-87f63894-5b6e.cloud.databricks.com
+- HTTP Path: /sql/1.0/warehouses/c12f9212f512792a
